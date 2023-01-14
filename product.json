@@ -1,0 +1,112 @@
+[
+    {
+        "name" : "Baleno",
+        "price" : 250000,
+        "features" : false,
+        "rating": 5,
+        "company": "MARUTI"
+    },
+    {
+        "name" : "New 7 Series",
+        "price" : 250000,
+        "features" : false,
+        "rating": 5,
+        "company": "BMW"
+    },
+    {
+        "name" : "i20",
+        "price" : 580000,
+        "features" : true,
+        "rating": 4.1,
+        "company": "HUNDAI"
+    },
+    {
+        "name" : "Dzire",
+        "price" : 547700,
+        "features" : true,
+        "rating": 4.2,
+        "company": "MARUTI"
+    },
+    {
+        "name" : "Alto",
+        "price" : 145000,
+        "features" : false,
+        "rating": 3.2,
+        "company": "MARUTI"
+    },
+    {
+        "name" : "Altroz",
+        "price" : 450000,
+        "features" : false,
+        "rating": 4.3,
+        "company": "TATA"
+    },
+    {
+        "name" : "M340i",
+        "price" : 230000,
+        "features" : true,
+        "rating": 4.2,
+        "company": "BMW"
+    },
+    {
+        "name" : "Safari",
+        "price" : 750000,
+        "features" : true,
+        "rating": 4.9,
+        "company": "TATA"
+    },
+    {
+        "name" : "Ertiga",
+        "price" : 450000,
+        "features" : true,
+        "rating": 4.5,
+        "company": "MARUTI"
+    },
+    {
+        "name" : "i10",
+        "price" : 550000,
+        "features" : true,
+        "rating": 3.8,
+        "company": "HUNDAI"
+    },
+    {
+        "name" : "Nexon",
+        "price" : 450000,
+        "features" : false,
+        "rating": 4.0,
+        "company": "TATA"
+    },
+    {
+        "name" : "X1",
+        "price" : 875400,
+        "features" : false,
+        "rating": 3.7,
+        "company": "BMW"
+    },
+    {
+        "name" : "Baleno",
+        "price" : 451200,
+        "features" : false,
+        "company": "MARUTI"
+    },
+    {
+        "name" : "XM",
+        "price" : 540000,
+        "features" : true,
+        "company": "BMW"
+    },
+    {
+        "name" : "Creta",
+        "price" : 750000,
+        "features" : true,
+        "rating": 4.8,
+        "company": "HUNDAI"
+    },
+    {
+        "name" : "Punch",
+        "price" : 350000,
+        "features" : false,
+        "rating": 4.1,
+        "company": "TATA"
+    }
+]
